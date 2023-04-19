@@ -1,0 +1,18 @@
+[project]
+name = "pyoct_package_dr2xpypackages"
+version = "0.0.1"
+authors = [
+  { name="Emol", email="romantengh@gmail.con" },
+]
+description = "A python package for making for loops in octal, without typing more code."
+readme = ""
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/dr2xmillion371/pyoct"
+"Bug Tracker" = ""
