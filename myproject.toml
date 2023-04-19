@@ -2,7 +2,7 @@
 name = "pyoct_package_dr2xpypackages"
 version = "0.0.1"
 authors = [
-  { name="Emol", email="romantengh@gmail.con" },
+  { name="Emol", email="romantengh@gmail.com" },
 ]
 description = "A python package for making for loops in octal, without typing more code."
 readme = ""
